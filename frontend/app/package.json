@@ -52,7 +52,7 @@
     "react-feather": "^2.0.10",
     "react-hotkeys": "^1.1.4",
     "react-transition-group": "^4.4.5",
-    "sass": "^1.58.0",
+    "sass": "^1.79.0",
     "styletron-engine-atomic": "^1.5.0",
     "styletron-react": "^6.1.0",
     "typed-signals": "^2.5.0"
