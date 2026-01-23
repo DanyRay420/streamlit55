@@ -42,7 +42,7 @@
     "humanize-string": "^2.1.0",
     "iframe-resizer": "^4.3.3",
     "immer": "^9.0.19",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "moment": "^2.29.4",
     "moment-timezone": "^0.5.40",
     "re-resizable": "^6.9.9",
